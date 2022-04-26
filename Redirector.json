@@ -1,0 +1,27 @@
+{
+    "createdBy": "Redirector v3.5.3",
+    "createdAt": "2022-04-25T10:55:55.466Z",
+    "redirects": [
+        {
+            "description": "FCKRKN fix yt icons",
+            "exampleUrl": "https://yt3.ggpht.com/ytc/AKedOLT0Or2c_28f8OQGCBvcAPAh0AgGjvbnn4MoJ5t6EQ=s176-c-k-c0x00ffffff-no-rj-mo",
+            "exampleResult": "https://pipedproxy.kavin.rocks/ytc/AKedOLT0Or2c_28f8OQGCBvcAPAh0AgGjvbnn4MoJ5t6EQ=s176-c-k-c0x00ffffff-no-rj-mo?host=yt3.ggpht.com",
+            "error": null,
+            "includePattern": "https://yt3.ggpht.com/*",
+            "excludePattern": "",
+            "patternDesc": "",
+            "redirectUrl": "https://pipedproxy.kavin.rocks/$1?host=yt3.ggpht.com",
+            "patternType": "W",
+            "processMatches": "noProcessing",
+            "disabled": false,
+            "grouped": false,
+            "appliesTo": [
+                "image",
+                "imageset",
+                "object",
+                "other"
+            ]
+        },
+
+    ]
+}
