@@ -9,6 +9,7 @@
 ### Шаг 2
 Скачайте файл Redirector.json
 - [Тут](https://raw.githubusercontent.com/NoPlagiarism/UnblockYouTubeRU/master/Redirector.json)
+- [Или Тут](https://github.com/NoPlagiarism/UnblockYouTubeRU/releases/download/V0.0.1/Redirector.json)
 
 ### Шаг 3
 - Зайдите в настройки Redirector (Иконка -> Edit Redirects)
