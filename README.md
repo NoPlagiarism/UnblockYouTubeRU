@@ -25,6 +25,6 @@
 Чтобы [этот бред](https://t.me/zatelecom/21920) начал подходить к концу, нужно остановить [другой бред](https://wikiless.org/wiki/Вторжение_России_на_Украину_(2022)?lang=ru)
 - [БезОпасный Репост](https://www.bezopasnyirepost.com/)
 - [Зелёная Лента](https://t.me/+LPYeeGmXI1EzZmE6)
-- [Методы гражданского протеста](https://partisan.super.site/)
+- [Методы гражданского протеста](https://partisans.super.site/)
 
 Берегите себя, своих близких и свой рассудок
